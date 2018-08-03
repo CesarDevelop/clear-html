@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Lato|Lobster|Open+Sans|Roboto|Roboto+Slab');
+
+$mainFont: 'Open Sans';
+
+* {
+    font-family: $mainFont;
+    margin: 0;
+    padding: 0;
+}
+a {
+    color: #9575CD;
+    text-decoration: none;
+}
